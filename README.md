@@ -1,3 +1,5 @@
-This GitHub profile is used to host the source code of my school projects.
+## Hi there! 👋
 
-I publish my publicly released projects which I develop as a hobby under [a different account and a different nickname](https://github.com/SaberToothed-Dev) so that people who view my public projects don't mix up school and hobby projects!
+I'm **Ehan**, a teenage hobbyist software developer that makes a wide variety of random projects for fun!
+
+I used to use a second account, [SaberToothed-Dev](https://github.com/sabertoothed-dev), so if you're a contributor to one of my past projects and are wondering where they went, they're under this account now!
