@@ -1,5 +1,4 @@
 <br />
-<br />
 <h1 align="center"> Ehan Ahamed </h1>
 <p align="center"> A random, edgy, 13 year old nerd that programs <br /> nonesense stuff and contributes to open source projects </p>
 <br />
@@ -12,6 +11,5 @@
 
 </div>
 <br />
-<p align="center"> <i> Profile picture drawn by my friend, Yin <i> </p>
-<br />
+<p align="center"> <sub> <i> Profile picture drawn by my friend, Yin </i> </sub> </p>
 <br />
