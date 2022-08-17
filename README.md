@@ -12,6 +12,6 @@
 
 </div>
 <br />
-<p align="center"> Profile picture drawn by my friend, Yin </p>
+<p align="center"> <i> Profile picture drawn by my friend, Yin <i> </p>
 <br />
 <br />
