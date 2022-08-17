@@ -5,5 +5,7 @@
 
 <br />
 
+[![](https://api.githubtrends.io/user/svg/EhanAhamed/langs?time_range=one_year&include_private=True&theme=classic)](#)
+[![](https://api.githubtrends.io/user/svg/EhanAhamed/repos?time_range=one_year&theme=classic)](#)
 <br />
 <br />
