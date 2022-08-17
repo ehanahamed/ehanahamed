@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-[!["Don't Try Harder, Cry Harder"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Don%27t%20Try%20Harder%2c%20Cry%20Harder)]()
+[!["Don't Try Harder, Cry Harder"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Don%27t%20Try%20Harder%2c%20Cry%20Harder)](#)
 
 </div>
 <br />
