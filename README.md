@@ -1,5 +1,9 @@
-## Hi there! 👋
+<br />
+<br />
+<h1 align="center"> "Don't Try Harder, Cry Harder" </h1> 
+<p align="center"> <a href="https://ehan.dev/"> Website (ehan.dev) </a> - <a href="mailto:ehanahamed@ehan.dev?"> Email (ehanahamed@ehan.dev) </a> - <a href="https://discord.com/users/951982294787301436"> Discord (Ehan#2455) </a> - <a href="https://github.com/EhanAhamed/"> GitHub (EhanAhamed) </a> </p>
 
-I'm **Ehan**, a teenage hobbyist software developer that makes a wide variety of random projects for fun!
+<br />
 
-I used to use a second account, [SaberToothed-Dev](https://github.com/sabertoothed-dev), so if you're a contributor to one of my past projects and are wondering where they went, they're under this account now!
+<br />
+<br />
