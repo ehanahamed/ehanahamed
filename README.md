@@ -7,7 +7,7 @@
 <br />
 <div align="center">
 
-[!["Don't Try Harder, Cry Harder"](https://quotes-github-readme-git-fork-ehanahamed-master-piyushsuthar.vercel.app/api?type=horizontal&theme=dracula&myquote=Don%27t%20Try%20Harder%2c%20Cry%20Harder&author=Ehan%20Ahamed)](#)
+[!["Don't Try Harder, Cry Harder"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Don%27t%20Try%20Harder%2c%20Cry%20Harder&author=Ehan%20Ahamed)](#)
 
 </div>
 <br />
