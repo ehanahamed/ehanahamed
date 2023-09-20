@@ -1,7 +1,11 @@
-<br />
-<h1 align="center"> Ehan </h1>
-<p align="center"> I program cool stuff </p>
-<br />
-<p align="center"> <a href="https://ehan.dev/"> Website (ehan.dev) </a> - <a href="https://codeberg.org/ehanahamed"> Codeberg (ehanahamed) </a> - <a href="mailto:ehanahamed@ehan.dev"> Email (ehanahamed@ehan.dev) </a> - <a href="https://discord.com/users/951982294787301436"> Discord (@thisisnotehan) </a> </p>
+# Ehan
 
-<br />
+It's "Ehan", not "Ethan"
+
+I program cool stuff
+
+## Links & stuff
+ - [ehan.dev](https://ehan.dev) (website)
+ - [ehanahamed](https://codeberg.org/ehanahamed) (codeberg)
+ - [ehanahamed@ehan.dev](mailto:ehanahamed@ehan.dev) (email)
+ - [@thisisnotehan](https://discord.com/users/951982294787301436) (discord)
