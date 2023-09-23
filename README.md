@@ -1,8 +1,11 @@
+# Ehan
+
 It's "Ehan", not "Ethan"
 
 I program cool stuff
 
-Links & stuff:
+## Links & stuff
+
  - [ehan.dev](https://ehan.dev) (website)
  - [ehanahamed](https://codeberg.org/ehanahamed) (codeberg)
  - [ehanahamed@ehan.dev](mailto:ehanahamed@ehan.dev) (email)
