@@ -2,11 +2,7 @@
 
 It's "Ehan", not "Ethan"
 
-I program cool stuff
-
-## Links & stuff
-
- - [ehan.dev](https://ehan.dev) (website)
- - [ehanahamed](https://codeberg.org/ehanahamed) (codeberg)
- - [ehanahamed@ehan.dev](mailto:ehanahamed@ehan.dev) (email)
- - [@thisisnotehan](https://discord.com/users/951982294787301436) (discord)
+ - [ehanahamed](https://codeberg.org/ehanahamed) on Codeberg
+ - [https://ehan.dev](https://ehan.dev) (website)
+ - ehan@ehan.dev (email)
+ - @thisisnotehan on Discord
