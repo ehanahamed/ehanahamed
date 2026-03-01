@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Codeberg: ehanahamed" viewBox="0 0 161 20" height="40">
+    <defs>
+    <linearGradient
+        id="A"
+        x1="42519.285"
+        y1="-7078.789"
+        x2="42575.336"
+        y2="-6966.931"
+        gradientUnits="userSpaceOnUse"
+    >
+        <stop
+            offset="0"
+            class="codeberg-stop-color"
+            stop-opacity="0"
+        />
+        <stop
+            offset=".495"
+            class="codeberg-stop-color"
+            stop-opacity=".3"
+        />
+    </linearGradient>
+    <style>
+        .codeberg-stop-color {
+            stop-color: #ffffff;
+        }
+    </style>
+    </defs>
+    <g shape-rendering="crispEdges">
+        <path d="M0 0h80v20H0z"/>
+        <path fill="#383838" d="M80 0h81v20H80z"/>
+    </g>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-anchor="middle" text-rendering="geometricPrecision">
+        <g transform="translate(5,3) scale(3.307)">
+        <path
+        d="M42519.285-7078.789c-.225.002-.437.078-.58.208s-.2.3-.158.465l33.586 125.889a87.18 87.18 0 0 0 39.381-33.764l-71.565-92.52c-.138-.175-.392-.282-.664-.279z"
+        transform="matrix(.02428 0 0 .02428 -1030.151 172.97)"
+        fill="url(#A)"
+        paint-order="stroke markers fill"
+        />
+        <path
+        d="M2.113.12A2.116 2.116 0 0 0 .319 3.36l1.765-2.282c.013-.016.045-.016.057 0L3.906 3.36A2.115 2.115 0 0 0 2.113.12z"
+        paint-order="markers fill stroke"
+        style="fill:#ffffff"
+        />
+        </g>
+        <text x="495" y="140" textLength="530" transform="scale(.1)">Codeberg</text>
+        <text x="1195" y="140" textLength="710" transform="scale(.1)">ehanahamed</text>
+    </g>
+</svg>
+

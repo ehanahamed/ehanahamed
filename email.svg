@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Email: ehan@ehanaha.me" viewBox="0 0 141 20" height="40">
+    <g shape-rendering="crispEdges">
+        <path d="M0 0h24v20H0z"/>
+        <path fill="#383838" d="M24 0h117v20H24z"/>
+    </g>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-anchor="middle" text-rendering="geometricPrecision">
+        <g transform="translate(5,3) scale(0.0273438)">
+            <path fill="#ffffff" d="M61.4 64C27.5 64 0 91.5 0 125.4c0 .9 0 1.7.1 2.6H0v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V128h-.1c0-.9.1-1.7.1-2.6 0-33.9-27.5-61.4-61.4-61.4zM464 192.3V384c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192.3l154.8 117.4c31.4 23.9 74.9 23.9 106.4 0zM48 125.4c0-7.4 6-13.4 13.4-13.4h389.2c7.4 0 13.4 6 13.4 13.4 0 4.2-2 8.2-5.3 10.7L280.2 271.5c-14.3 10.8-34.1 10.8-48.4 0L53.3 136.1c-3.3-2.5-5.3-6.5-5.3-10.7"/>
+        </g>
+        <text x="815" y="140" textLength="1070" transform="scale(.1)">ehan@ehanaha.me</text>
+    </g>
+</svg>
