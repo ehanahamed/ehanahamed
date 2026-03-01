@@ -1,7 +1,9 @@
 # Hi, I'm Ehan
 
-- https://ehan.dev
-- Codeberg: [ehanahamed](https://codeberg.org/ehanahamed)
-- Email: `ehan@ehan.dev`
-- Matrix: [@ehanahamed:matrix.org](https://matrix.to/#/@ehanahamed:matrix.org)
-- Discord: `@thisisnotehan`
+[![Codeberg: ehanahamed](./codeberg.svg)](https://codeberg.org/ehanahamed)
+
+[![GitHub: ehanahamed](./gh.svg)](#0)
+
+[![Website: https://ehan.dev](./site.svg)](https://ehan.dev)
+
+[![Email: ehan@ehanaha.me](./email.svg)](mailto:ehan@ehanaha.me)
